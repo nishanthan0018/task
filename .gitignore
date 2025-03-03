@@ -1,0 +1,9 @@
+# Ignore all log files
+*.log
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore temporary files
+*.tmp
+.DS_Store
