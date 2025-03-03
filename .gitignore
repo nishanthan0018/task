@@ -1,9 +1,9 @@
-# Ignore all log files
-*.log
-
-# Ignore node_modules directory (for Node.js projects)
+# Ignore Node.js dependencies
 node_modules/
 
-# Ignore temporary files
-*.tmp
-.DS_Store
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
